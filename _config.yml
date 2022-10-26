@@ -2,4 +2,4 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme 
 title:  Sample data App web
-description: an interactive   data app
+description: an interactive  data app
