@@ -1,3 +1,4 @@
 # my-second-try
- hello
-i can do it 
+hello
+I'm JingyangFeng, a student of SWUFE-UD
+
